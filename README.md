@@ -3,7 +3,7 @@
 
 # MOSIP OpenID Bridge
 
-### Overview
+## Overview
 Contains the following components:
 
 1. [Kernel Auth Adapater](kernel/kernel-auth-adapter)
